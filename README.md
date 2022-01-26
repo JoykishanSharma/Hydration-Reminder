@@ -10,6 +10,18 @@
 ## Solution : 
 #### A Hydration Reminder that will remind you every hour to take a break and get hydrated (drink water). 
 
+## Few Screenshots
+<table>
+  <tr>
+    <td>
+      <img src="screenshots/on_windows_start.png" width="270"/>
+    </td>
+    <td>
+      <img src="screenshots/every_hour.png" width="270"/>
+    </td>
+  </tr>
+ </table>
+
 ## How it works :
 #### Basically there is a python script that runs in background that reminds every hour with a MessageBox to take a break and get hydrated. As simple as that. You don't need to install any reminder software. You don't need to give any administrator privileges.
 
